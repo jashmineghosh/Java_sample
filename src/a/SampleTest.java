@@ -1,130 +1,92 @@
 package a;
 
 
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 public class SampleTest {
     public static void main (String[] args) {
+        int[] A = {9,3,9,3,9,7,9};
+        int a = solution(A);
+        System.out.println("+++"+a);
+    }
+
+    public static int solution (int[] A) {
 
 
-       List<String> s1 = solution ( "CBACD");
+//if(A.length%2!=0){
+//    int[] E = new int[A.length / 2 + 1];
+//    System.out.println(E.length);
+//    int[] O = new int[A.length / 2];
+//    System.out.println(O.length);
 
-//        String listString = "";
-//        for (String s : s1)
-//        {
-//            listString += s ;
+//    for(int i=0;i<A.length; i++) {
+//        if (i % 2 == 0) {
+//            for (int j = 0; j < E.length; j++) {
+//                E[j] = A[i];
+//            }
 //        }
+//        }
+//    for(int i=0;i<A.length; i++) {
+//        if (i % 2 != 0) {
 //
-//        System.out.println(listString);
-//        List<String> s2 = solution(listString);
-//        System.out.println(s2);
-//        solution("CABABD");
-
-//        CABABD
-//        CBACD
-        String ss1 =convert(s1);
-        System.out.println("after convert"+ss1);
-        List<String> s2 = solution(ss1);
-        String ss2 =convert(s2);
-        System.out.println("after convert"+ss2);
-        List<String> s3 = solution(ss2);
-        String ss4 =convert(s3);
-        System.out.println("after convert"+ss4);
-    }
-
-    public static List<String> solution (String str) {
-//        System.out.println(str);
-//        char[] chars = str.toCharArray();
-//        Arrays.sort(chars);
-//        String str1 = new String(chars);
-//        System.out.println(str1);
-/*
-            // `i` maintains the position of the current char in the input string.
-            // `k` maintains the next free position in the output string.
-            int i = 0, k = 0;
-
-            // do till the end of the string is reached
-            while (i < str.length())
-            {
-                // if the current character is `B` and previous (need not be adjacent)
-                // was `A`, increment `i` and decrement `k`
-                if (chars[i] == 'A' && (k > 0 && chars[k - 1] == 'B'))
-                {
-                    --k;
-                    ++i;
-                }
-                // if the current character is `C`, increment `i`
-                else if (chars[i] == 'C' && (k > 0 && chars[k - 1] == 'D')) {
-                    --k;
-                    ++i;
-
-                }
-                // for any other character, increment both `i` and `k`
-                else {
-
-                    chars[k++] = chars[i++];
-
-                }
-            }
-
-            return new String(chars).substring(0, k);
-*/
-
-//        int l = chars.length;
+//                for (int j = 0; j < O.length; ) {
+//                    O[j] = A[i];
 //
+//                    System.out.println("+++" + O[j]);
+//                }
 //
-//        char[] array2 = null;
-//        // Iterate for every index and
-//        // check for the condition
-//        for (int i = 1; i < l; i++) {
+//        }
+//    }
 //
-//            // If are not consecutive
-//            if (chars[i] - chars[i - 1] == 1) {
-//                array2 = Arrays.copyOfRange(chars, i + 1, l);
-//
-//            }
-//
-//            }
-//
-//        return solution(array2.toString());
-        List<String> myList = new ArrayList<String>(Arrays.asList(str.split("")));
+//    }
+    int x = A.length/2;
 
-        System.out.println(myList);
-        for(int i = 0; i<myList.size()-1;i++){
-            if(myList.get(i).equals("C") && myList.get(i+1).equals("D") ||
-                    myList.get(i).equals("D") && myList.get(i+1).equals("C")){
-                myList.remove(i);
-                System.out.println("from 1 loop"+myList);
-                myList.remove(i);
-                System.out.println("from 1 loop"+myList);
-            }
-
-        }
-        for(int i = 0; i<myList.size()-1;i++) {
-            if (myList.get(i).equals("B") && myList.get(i + 1).equals("A") ||
-                    myList.get(i).equals("A") && myList.get(i + 1).equals("B")) {
-                myList.remove(i);
-                System.out.println("from 2 loop"+myList);
-                myList.remove(i);
-                System.out.println("from 2 loop"+myList);
-            }
-        }
-        return myList;
-        }
-public static String convert(List<String> s1){
-    String listString = "";
-    for (String s : s1)
+    int O[] = new int[x];
+    System.out.println(x);
+    //go over the larger array and skip by 2
+    for (int i = 1; i < A.length-1; i=i+2)
     {
-        listString += s ;
+        O[i/2] = A[i];
     }
+int a =0;
+    for (int i = 0; i < O.length; i++)
+    {
+        System.out.println(O[i]);
 
 
-    return listString;
+            for ( int j = 0; j < i; j++){
+                if (O[i] != O[j]){
+                    System.out.println("+++"+O[i]);
+a= O[i];
+                    break;
+                }
+            }
+
+
+        }
+
+        int x1 = (A.length/2)+1;
+
+        int E[] = new int[x1];
+        System.out.println(x1);
+        //go over the larger array and skip by 2
+        for (int i = 0; i < A.length; i=i+2)
+        {
+            E[i/2] = A[i];
+        }
+
+        for (int i = 0; i < E.length; i++)
+        {
+            System.out.println(E[i]);
+        }
+        return a;
+}
 }
 
 
-    }
+
 
 
