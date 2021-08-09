@@ -16,9 +16,11 @@ import java.util.Scanner;
 //  public class Alpha extends Beta implements Declare {
       public class Alpha{
       public void foo (String... args) {
-          System.out.println("Alpha : foo");
+          System.out.println("Alpha : foo");String a = "abc";
           doStuff(1);
       }
+
+
 //
 //      public void bar (String a) {
 //          System.out.println("Alpha: bar");
