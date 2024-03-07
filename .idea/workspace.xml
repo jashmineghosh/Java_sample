@@ -1,166 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7ac86ce1-397c-4578-bd2f-ccc0e0f107a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/Area.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/Area.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/BiggestNumInArrRecur.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/BiggestNumInArrRecur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/BiggestNumInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/BiggestNumInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/ComplexNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/ComplexNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/FeedingSchedule.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/FeedingSchedule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/FindNumInSortedArrRecur.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/FindNumInSortedArrRecur.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/FindNumInUnsortedArrSequentially.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/FindNumInUnsortedArrSequentially.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/Floor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/Floor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/KmToMiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/KmToMiles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/MissingNUmInArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/MissingNUmInArr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/OperationOn2DArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/OperationOn2DArr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/W3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/W3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/a/AccessCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/a/AccessCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/a/AccessTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/a/AccessTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java_sample/a/Alpha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/a/Alpha.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/a/nextGreater.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/a/Beta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/a/Beta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/a/SampleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/a/SampleTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java_sample/access/AccessTest$Baap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/access/AccessTest$Baap.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java_sample/access/AccessTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/access/AccessTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/access/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/access/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/accessTest/AccessTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/accessTest/AccessTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/accessTest/Baap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/accessTest/Baap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/accessTest/Beta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/accessTest/Beta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/b/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/b/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/b/AccessCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/b/AccessCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/b/Declare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/b/Declare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/b/Gamma.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/b/Gamma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/binarySearchTree/BinarySearchTreeLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/binarySearchTree/BinarySearchTreeLL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/javaClassStruc/Zoo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/javaClassStruc/Zoo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/list/DoubleCircularLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/list/DoubleCircularLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/list/DoubleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/list/DoubleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/list/DoubleNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/list/DoubleNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/list/SingleCircularLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/list/SingleCircularLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/list/SingleLInkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/list/SingleLInkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/list/SingleNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/list/SingleNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/A1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/A1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/ABCD.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/ABCD.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/AccessTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/AccessTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/B1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/B1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/Bar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/Bar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/Bat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/Bat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/C1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/C1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/Eagle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/Eagle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/Flyer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/Flyer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/FooBase$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/FooBase$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/FooBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/FooBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/GoodSpeak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/GoodSpeak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/Growable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/Growable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/IfTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/IfTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/MNOP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/MNOP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/Movable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/Movable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/Pass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/Pass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/Speak.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/Speak.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/SubAccessTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/SubAccessTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/SubBat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/SubBat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/TestClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/TestClass1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/Tone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/Tone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/oca1/VarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/oca1/VarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/queue/CircularQueWithArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/queue/CircularQueWithArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/queue/QueueByLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/queue/QueueByLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/queue/QueueWithArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/queue/QueueWithArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/stack/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/stack/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/stack/StackWithArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/stack/StackWithArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/tree/BinaryNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/tree/BinaryNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/tree/BinaryTreeArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/tree/BinaryTreeArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_sample/tree/BinaryTreeLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_sample/tree/BinaryTreeLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/W3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/W3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/a/Alpha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a/Alpha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/a/SampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/a/SampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/access/AccessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/access/AccessTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oca1/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oca1/test1.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="925475414">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="139" />
-          <entry key="project.open.time.0" value="8" />
-          <entry key="project.open.time.1" value="5" />
-          <entry key="project.open.time.10" value="3" />
-          <entry key="project.open.time.107" value="1" />
-          <entry key="project.open.time.11" value="1" />
-          <entry key="project.open.time.12" value="3" />
-          <entry key="project.open.time.13" value="2" />
-          <entry key="project.open.time.14" value="2" />
-          <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.16" value="13" />
-          <entry key="project.open.time.17" value="5" />
-          <entry key="project.open.time.18" value="5" />
-          <entry key="project.open.time.19" value="16" />
-          <entry key="project.open.time.20" value="8" />
-          <entry key="project.open.time.21" value="7" />
-          <entry key="project.open.time.22" value="6" />
-          <entry key="project.open.time.23" value="5" />
-          <entry key="project.open.time.24" value="3" />
-          <entry key="project.open.time.25" value="5" />
-          <entry key="project.open.time.26" value="5" />
-          <entry key="project.open.time.27" value="2" />
-          <entry key="project.open.time.28" value="2" />
-          <entry key="project.open.time.29" value="4" />
-          <entry key="project.open.time.30" value="2" />
-          <entry key="project.open.time.31" value="4" />
-          <entry key="project.open.time.32" value="3" />
-          <entry key="project.open.time.33" value="4" />
-          <entry key="project.open.time.34" value="2" />
-          <entry key="project.open.time.35" value="2" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.40" value="1" />
-          <entry key="project.open.time.48" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.51" value="2" />
-          <entry key="project.open.time.52" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.open.time.62" value="1" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.open.time.71" value="1" />
-          <entry key="project.open.time.8" value="4" />
-          <entry key="project.open.time.82" value="2" />
-          <entry key="project.open.time.85" value="1" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="153" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="1" />
-          <entry key="java" value="208" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="208" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="21" />
-          <entry key="java" value="52373" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="52373" />
-          <entry key="PLAIN_TEXT" value="21" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/oca1/test1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1161">
-              <caret line="280" column="42" lean-forward="true" selection-start-line="280" selection-start-column="42" selection-end-line="280" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/access/AccessTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-              <folding>
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#254#255#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/a/Alpha.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="10" selection-start-column="10" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Area.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="33" column="43" selection-start-line="33" selection-start-column="43" selection-end-line="33" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/a/AccessCheck.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BiggestNumInArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -269,12 +202,19 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectId" id="2DFk24KkeBtDqfs9UIYinUYUt9s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -345,27 +285,31 @@
       <pane id="Scope" />
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1628390231219" />
-    <property name="last_opened_file_path" value="I:/Data/Selenium" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.IfTest">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Alpha">
+    <configuration name="Alpha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a.Alpha" />
+      <module name="Java_sample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="B11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="oca1.B11" />
       <module name="Java_sample" />
@@ -431,37 +375,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oca1.TestClass11" />
-      <module name="Java_sample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oca1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Discounter" />
       <item itemvalue="Application.B11" />
-      <item itemvalue="Application.TestClass11" />
       <item itemvalue="Application.FooBase" />
       <item itemvalue="Application.IfTest" />
       <item itemvalue="Application.GoodSpeak" />
+      <item itemvalue="Application.Alpha" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Alpha" />
         <item itemvalue="Application.IfTest" />
         <item itemvalue="Application.GoodSpeak" />
         <item itemvalue="Application.FooBase" />
         <item itemvalue="Application.B11" />
-        <item itemvalue="Application.TestClass11" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -535,9 +467,6 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
     </layout-to-restore>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/binarySearchTree/BinarySearchTreeLL.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -575,7 +504,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Comparator.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="463" column="69" selection-start-line="463" selection-start-column="69" selection-end-line="463" selection-end-column="69" />
@@ -603,7 +532,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Random.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Random.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="321">
           <caret line="320" column="29" lean-forward="true" selection-start-line="320" selection-start-column="29" selection-end-line="320" selection-end-column="29" />
@@ -613,14 +542,14 @@
     <entry file="file://$PROJECT_DIR$/src/javaClassStruc/Zoo.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Map.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Map.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="374" column="14" selection-start-line="374" selection-start-column="14" selection-end-line="374" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/LinkedHashMap.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/util/LinkedHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10132">
           <caret line="632" column="31" selection-start-line="632" selection-start-column="31" selection-end-line="632" selection-end-column="31" />
@@ -670,7 +599,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/AbstractList.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/util/AbstractList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3623">
           <caret line="167" column="12" selection-start-line="167" selection-start-column="12" selection-end-line="167" selection-end-column="12" />
@@ -684,7 +613,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Collections.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Collections.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="7684">
           <caret line="491" column="23" selection-start-line="491" selection-start-column="23" selection-end-line="491" selection-end-column="23" />
@@ -705,91 +634,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/time/temporal/TemporalAccessor.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/time/temporal/TemporalAccessor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="102" column="33" selection-start-line="102" selection-start-column="17" selection-end-line="102" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/time/LocalDateTime.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/time/LocalDateTime.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
           <caret line="637" column="83" selection-start-line="637" selection-start-column="67" selection-end-line="637" selection-end-column="83" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Double.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Double.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="591" column="11" selection-start-line="591" selection-start-column="11" selection-end-line="591" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Short.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Short.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Object.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="147" column="19" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/StringBuilder.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/StringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
           <caret line="242" column="25" selection-start-line="242" selection-start-column="25" selection-end-line="242" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9248">
           <caret line="655" column="22" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/AbstractStringBuilder.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="14297">
           <caret line="879" column="18" selection-start-line="879" selection-start-column="18" selection-end-line="879" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/time/format/DateTimeFormatter.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/time/format/DateTimeFormatter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20842">
           <caret line="1717" column="25" selection-start-line="1717" selection-start-column="18" selection-end-line="1717" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/time/LocalDate.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/time/LocalDate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="136" column="19" selection-start-line="136" selection-start-column="19" selection-end-line="136" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1167">
           <caret line="865" column="11" selection-start-line="865" selection-start-column="11" selection-end-line="865" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Arrays.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
           <caret line="2569" column="33" lean-forward="true" selection-start-line="2569" selection-start-column="26" selection-end-line="2569" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Character.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Character.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76534">
           <caret line="4536" column="11" selection-start-line="4536" selection-start-column="11" selection-end-line="4536" selection-end-column="11" />
@@ -800,7 +729,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8092">
           <caret line="514" column="66" selection-start-line="514" selection-start-column="59" selection-end-line="514" selection-end-column="66" />
@@ -835,21 +764,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Throwable.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Throwable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-55">
           <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Exception.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Exception.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Boolean.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Boolean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="130" column="19" selection-start-line="130" selection-start-column="19" selection-end-line="130" selection-end-column="19" />
@@ -873,14 +802,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/ClassLoader.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/ClassLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="421">
           <caret line="1421" column="23" selection-start-line="1421" selection-start-column="23" selection-end-line="1421" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Error.java">
+    <entry file="jar://$PROJECT_DIR$/../../../../Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/Error.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="122" column="19" selection-start-line="122" selection-start-column="14" selection-end-line="122" selection-end-column="19" />
